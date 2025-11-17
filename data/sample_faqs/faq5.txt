@@ -1,0 +1,5 @@
+Q: Where are your stores located?
+A: We have stores in Delhi, Mumbai, Bangalore, Pune, and Hyderabad.
+
+Q: Do you offer in-store pickup?
+A: Yes, customers can select store pickup at checkout.
